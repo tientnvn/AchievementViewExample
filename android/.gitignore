@@ -1,0 +1,12 @@
+
+/.project
+/.classpath
+/.settings
+/.gradle
+/build
+/.idea
+/local.properties
+/gradle.propertiesapp/app.iml
+.DS_Store
+gradle.properties
+*.apk
