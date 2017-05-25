@@ -11,3 +11,5 @@ npm install
 ```bash
 react-native run-android
 ```
+## Result
+![android](https://github.com/tientnvn/AchievementViewExample/blob/master/example.png)
